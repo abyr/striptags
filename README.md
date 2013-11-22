@@ -4,9 +4,16 @@ stripTags
 Strip tags module
 
 
+Install
+--------
+
+```
+bower install striptags
+```
+
+
 Require
 ---------
-
 
 ```
 stripTags = require('stripTags');
