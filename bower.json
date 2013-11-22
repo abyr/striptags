@@ -1,0 +1,22 @@
+{
+  "name": "striptags",
+  "version": "1.0.0",
+  "homepage": "https://github.com/abyr/striptags",
+  "authors": [
+    "Aleksandr Denisenko <abyrcheg@gmail.com>"
+  ],
+  "description": "Strip tags",
+  "main": "stripTags.js",
+  "keywords": [
+    "strip",
+    "tags"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
