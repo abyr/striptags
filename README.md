@@ -1,7 +1,7 @@
 stripTags
 =========
 
-NodeJS strip tags module
+Strip tags module
 
 
 Require
