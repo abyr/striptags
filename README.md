@@ -38,7 +38,7 @@ More examples
 
 Strip all tags, besides 'b', 'i', and 'br'
 ```
-stripAllTags(htmlString, 'b,i,br');
+stripTags.stripAllTags(htmlString, 'b,i,br');
 ```
 
 
